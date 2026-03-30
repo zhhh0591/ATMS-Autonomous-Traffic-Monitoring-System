@@ -4,7 +4,7 @@ A full-stack Vision AI + IoT project that simulates how modern adaptive traffic 
 
 ## Demo
 
-[Watch the demo video]:https://youtube.com/shorts/b-CrNN_raKI?feature=share
+[Watch the demo video]https://youtube.com/shorts/b-CrNN_raKI?feature=share
 
 ---
 
